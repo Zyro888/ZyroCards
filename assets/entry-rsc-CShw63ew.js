@@ -1,1 +1,0 @@
-import{a as e,c as t,i as n}from"./index-D4psf4OJ.js";var r=e(),i=(0,t(n(),1).createContext)({base:`/`});function a({value:e,children:t}){return(0,r.jsx)(i,{value:e,children:t})}var o={RenderContextProvider:a};export{o as export_9c4d452814ac};
