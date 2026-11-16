@@ -1,0 +1,1 @@
+import{t as e}from"./index.entry-CYHZV-gz.js";import{n as t}from"./index-D4psf4OJ.js";function n(e){return t(e).index}var r={default:n(e)};export{r as export_85cd6de63906};
